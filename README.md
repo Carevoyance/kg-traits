@@ -1,2 +1,2 @@
-# kg-traits
-Traits used by various Knowledge Graph libraries
+# kg-types
+Types used by various Knowledge Graph libraries
